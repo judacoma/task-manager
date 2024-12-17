@@ -11,6 +11,28 @@ This repository contains a Python-based Task Manager application built using **S
 - **Export Tasks to JSON**: Saves all tasks to a JSON file for backup or sharing.
 - **Import Tasks from JSON**: Load tasks from a JSON file.
 
+### Screenshots
+
+#### Adding a New Task
+- Writing a new task: ![Task Input](images/task-in.jpg)
+- Adding the task using the submit button: ![Submit Button](images/task-submit.jpg)
+
+#### Task Added Successfully
+- Task displayed after being added: ![Task Added](images/task-submit-succes.jpg)
+
+#### Marking a Task as Completed
+- Task marked as completed: ![Task Completed](images/task-check.jpg)
+
+#### Exporting Tasks to JSON
+- Exporting tasks as a JSON file: ![JSON Saved](images/task-json-saved.jpg)
+- Generated JSON file: ![JSON File](images/task-json-saved-copy.jpg)
+
+#### Database View
+- SQLite database created after adding a new task: ![Database View](images/task-db.jpg)
+
+#### Importing Tasks from JSON
+- JSON file being imported: ![JSON Imported](images/task-json-imported.jpg)
+
 ## Installation
 
 1. Clone the repository:
@@ -109,5 +131,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [SQLAlchemy Documentation](https://docs.sqlalchemy.org/)
-
----
