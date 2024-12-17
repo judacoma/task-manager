@@ -14,7 +14,8 @@ This repository contains a Python-based Task Manager application built using **S
 ### Screenshots
 
 #### Adding a New Task
-- Writing a new task: ![Task Input](images/task-in.jpg)
+- start of the website: ![Task Input](images/task-in.jpg)
+- writing the task: ![Task Input](images/task-type.jpg)
 - Adding the task using the submit button: ![Submit Button](images/task-submit.jpg)
 
 #### Task Added Successfully
